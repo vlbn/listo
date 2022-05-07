@@ -1,3 +1,3 @@
 # listo
 
-⛰️ minimalistic to-do app
+✏️ minimalistic to-do app
